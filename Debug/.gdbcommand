@@ -1,0 +1,4 @@
+set sysroot C:\tizen-sdk\platforms\mobile-2.3\rootstraps\mobile-2.3-device.core
+set debug-file-directory C:\tizen-sdk\platforms\mobile-2.3\rootstraps\mobile-2.3-device.core\usr\lib\debug
+set solib-search-path D:\Tizen\0812\Debug
+dir C:\tizen-sdk\platforms\mobile-2.3\rootstraps\mobile-2.3-device.core\usr\src\debug
